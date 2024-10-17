@@ -1,0 +1,14 @@
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\bin\Debug\net8.0\BasicsCsharp.exe
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\bin\Debug\net8.0\BasicsCsharp.deps.json
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\bin\Debug\net8.0\BasicsCsharp.runtimeconfig.json
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\bin\Debug\net8.0\BasicsCsharp.dll
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\bin\Debug\net8.0\BasicsCsharp.pdb
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\obj\Debug\net8.0\BasicsCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\obj\Debug\net8.0\BasicsCsharp.AssemblyInfoInputs.cache
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\obj\Debug\net8.0\BasicsCsharp.AssemblyInfo.cs
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\obj\Debug\net8.0\BasicsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\obj\Debug\net8.0\BasicsCsharp.dll
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\obj\Debug\net8.0\refint\BasicsCsharp.dll
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\obj\Debug\net8.0\BasicsCsharp.pdb
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\obj\Debug\net8.0\BasicsCsharp.genruntimeconfig.cache
+C:\Users\rajan.jha\source\repos\BasicsCsharp\BasicsCsharp\obj\Debug\net8.0\ref\BasicsCsharp.dll

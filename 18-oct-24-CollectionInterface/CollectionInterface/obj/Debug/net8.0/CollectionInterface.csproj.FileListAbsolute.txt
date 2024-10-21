@@ -1,0 +1,14 @@
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\bin\Debug\net8.0\CollectionInterface.exe
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\bin\Debug\net8.0\CollectionInterface.deps.json
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\bin\Debug\net8.0\CollectionInterface.runtimeconfig.json
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\bin\Debug\net8.0\CollectionInterface.dll
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\bin\Debug\net8.0\CollectionInterface.pdb
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\obj\Debug\net8.0\CollectionInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\obj\Debug\net8.0\CollectionInterface.AssemblyInfoInputs.cache
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\obj\Debug\net8.0\CollectionInterface.AssemblyInfo.cs
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\obj\Debug\net8.0\CollectionInterface.csproj.CoreCompileInputs.cache
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\obj\Debug\net8.0\CollectionInterface.dll
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\obj\Debug\net8.0\refint\CollectionInterface.dll
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\obj\Debug\net8.0\CollectionInterface.pdb
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\obj\Debug\net8.0\CollectionInterface.genruntimeconfig.cache
+C:\Users\rajan.jha\source\repos\CollectionInterface\CollectionInterface\obj\Debug\net8.0\ref\CollectionInterface.dll
